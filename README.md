@@ -8,8 +8,9 @@
 ## 🗂 Importing Your Playlists
 
 - Click the **"+"** icon near the bottom left.
-- Select your playlist folder (each folder should contain `.mp3` files).  
+- Select your playlist folder with all the playlists in it(each folder should contain `.mp3` files).
   - Example: `playlists/Rap`, `playlists/Chill`
+- There is a playlist folder called `playlists` that has albums in it.
 - Your playlists will appear on the left.
 - Click one to load its songs into the queue.
 
