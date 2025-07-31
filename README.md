@@ -1,4 +1,9 @@
 # 📖 How to Use
+---
+
+<img width="807" height="358" alt="image" src="https://github.com/user-attachments/assets/f1967572-eef0-4d52-bfec-ae3b360185d6" />
+
+---
 
 ## 🗂 Importing Your Playlists
 
