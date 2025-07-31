@@ -1,35 +1,65 @@
-🗂 Importing Your Playlists
-Click the "+" button near the bottom left to select your playlist folder (each playlist should be a folder containing .mp3 files).
+# 📖 How to Use
 
-Your playlists will appear in the left sidebar list.
+## 🗂 Importing Your Playlists
 
-🎶 Loading and Playing Songs
-Click a playlist from the left list to load its songs into the queue (right list).
+- Click the **"+"** icon near the bottom left.
+- Select your playlist folder (each folder should contain `.mp3` files).  
+  - Example: `playlists/Rap`, `playlists/Chill`
+- Your playlists will appear on the left.
+- Click one to load its songs into the queue.
 
-Click any song in the queue to start playing it.
+## 🎶 Playing Music
 
-The song info, album art, and rotating vinyl animation will appear in the center.
+- Click a playlist to load its songs.
+- Click a song from the queue to **play** it.
+- Album art and vinyl animation will appear in the center.
 
-▶️ Playback Controls
-Play/Pause: Click the "II" or "▶" button.
+## ▶️ Playback Controls
 
-Next/Previous Songs: Use the ▶| and |◀ buttons.
+- **Play/Pause:** Click II/▶ or press `Space`
+- **Next Song:** ▶| or `Ctrl + →`
+- **Previous Song:** |◀ or `Ctrl + ←`
+- **Repeat:** Click 🔁 or `Ctrl + R`
+- **Shuffle:** Click 🔀 or `Ctrl + S`
+- **Seek:** Drag the white slider under album art
 
-Seek: Drag the slider under the album art to scrub through the track.
+## 🔊 Volume Controls
 
-Repeat: Click 🔁 to repeat the current song.
+- Adjust volume with the slider (bottom right)
+- Click 🔈/🔇 to mute or unmute
 
-Shuffle: Click 🔀 to shuffle the queue (Ctrl+S also toggles shuffle).
+## 🔍 Searching the Queue
 
-🔊 Volume & Mute
-Use the slider under the queue to adjust volume.
+- Type in the search bar under the queue
+- Press `Enter` or `Ctrl + K` to search/play
+- Click ❌ to clear your search
 
-Click the speaker icon (🔉/🔇) to mute/unmute.
+## 🎛 Additional Features
 
-🔍 Searching
-Use the search bar under the queue to quickly find and jump to a song in the current playlist. Just type and press Enter.
+- ✔ Drag-and-drop queue reordering
+- ✔ Vinyl rotation slows down when paused
+- ✔ Auto-save & resume:  
+  - Remembers playlist, song, volume, and position
 
-🎛 Advanced Features
-Drag-and-drop to reorder songs: Click and drag items in the queue to rearrange the order.
+## 💡 Tips
 
-Auto-save and resume: Your last playlist, song, position, and volume are saved automatically.
+- Hover over buttons for tooltips (**coming soon**)
+- Playlist folders **must** contain `.mp3` files
+
+## 📫 Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+🙏 Thanks for checking out **RAKE**!
+
+---
+
+> “The moment I stop having fun with it, I’ll be done with it.” — **Drake**
+
+---
